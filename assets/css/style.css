@@ -138,11 +138,11 @@ input {
     color: grey;
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
 	.subscribe-input {
 		width: 100%;
 	}
-}
+} */
 
 .subscribe-submit {
 	right: 0;
